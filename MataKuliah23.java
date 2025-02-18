@@ -6,6 +6,7 @@ class MataKuliah23 {
     int jumlahJam;
 
     void tampilkanInformasi() {
+        System.out.println();
         System.out.println("Kode MK: " + kodeMK);
         System.out.println("Nama MK: " + nama);
         System.out.println("SKS: " + sks);
