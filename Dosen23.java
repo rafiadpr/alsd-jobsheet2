@@ -7,6 +7,7 @@ class Dosen23 {
     String bidangKeahlian;
 
     void tampilkanInformasi() {
+        System.out.println();
         System.out.println("ID Dosen: " + idDosen);
         System.out.println("Nama Dosen: " + nama);
         System.out.println("Status Aktif: " + statusAktif);
